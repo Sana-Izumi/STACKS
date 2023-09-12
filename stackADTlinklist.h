@@ -43,5 +43,3 @@ int isEmpty(STACK *S){
 }
 
 #endif
-
-#endif
